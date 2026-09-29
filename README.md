@@ -8,7 +8,7 @@ I am the founder and CTO of Artificialss, a Costa Rican Software & AI Ethical La
 
 ## What I do
 - **Artificialss:** agentic AI systems, full-stack web and mobile products, legal technology, cryptography R&D and an AI Academy, from Costa Rica for the world. See the [organization profile](https://github.com/Artificialss).
-- **Hiatus Inc.:** Senior Android Engineer on a US fintech subscription-management platform.
+- **Hiatus Inc.:** Senior Android Engineer on a US fintech subscription-management platform with 1M+ users. [Details below](#featured-senior-android-engineer-at-hiatus-inc).
 - **Architecture migrations:** taking apps from MVP (Minimum Viable Product) to production-grade codebases: XML to Compose, MVP (Model-View-Presenter) to MVVM, Observables to StateFlow, Java to Kotlin.
 
 ## Core competencies
@@ -27,8 +27,8 @@ I am the founder and CTO of Artificialss, a Costa Rican Software & AI Ethical La
 ## Experience
 | Role | Company | Period |
 |---|---|---|
-| Founder & CTO | **Artificialss**, Software & AI Ethical Labs | 2026 to present |
 | Senior Android Engineer | **Hiatus Inc.** (US fintech, remote) | May 2022 to present |
+| Founder & CTO | **Artificialss**, Software & AI Ethical Labs | 2026 to present |
 | Mobile Technical Lead | Freelance: Panza, Softon, OMNi, Portafolio | Jul 2019 to May 2026 |
 | Android Engineer | NCR Corporation (via Optomi), D3 Digital Banking | Nov 2021 to Apr 2022 |
 | Senior Mobile Developer | Evertec Inc., ATHMovil | Sep 2019 to Dec 2021 |
@@ -36,6 +36,17 @@ I am the founder and CTO of Artificialss, a Costa Rican Software & AI Ethical La
 | Android Developer | Softon ITG, Froliic | Aug 2018 to May 2019 |
 | Intern Mobile Developer | Konrad Group, Purolator | Aug 2018 to May 2019 |
 | Junior Android Developer | CINDEA Turrialba | Jul 2016 to Feb 2019 |
+
+## Featured: Senior Android Engineer at Hiatus Inc.
+*May 2022 to present · Full time · Sacramento, CA (remote) · [hiatus.app](https://hiatus.app)*
+
+I lead Android development for Hiatus, a US fintech platform that helps people track, manage and cancel their subscriptions, across the full product lifecycle and a growing user base of 1M+ users.
+- **Architecture:** design and ship features end to end in Kotlin and Jetpack Compose, migrating from the XML/View system, with MVVM and clean architecture, coroutines, StateFlow and Apollo GraphQL.
+- **Payments and banking:** Plaid bank linking and relinking flows, Stripe and Google In-App Purchases for premium subscriptions, and A/B-tested paywall variants with GrowthBook.
+- **Migrations and refactors:** XML to Compose, Android Edge to Edge, Observables to StateFlow, MVP (Model-View-Presenter) to MVVM, Java to Kotlin, and repository patterns backed by unit tests.
+- **Quality:** JUnit4, MockK and Coroutines Test coverage across ViewModels, repositories and streaming parsers.
+- **Team:** cross-functional Scrum with iOS, backend and product in a fully remote US environment, using Linear, Figma, CircleCI, Slack, Sentry and Segment.
+- **Agentic workflows:** adopted Claude Code, Cursor, Gemini and JetBrains AI to speed up feature delivery and code reviews.
 
 ## Notable projects
 - **Artificialss platform:** ethical AI lab with agentic code and design, agentic pipelines, AI integrations, AI-powered legal tech tools and an AI Academy. [artificialss.ai](https://artificialss.ai/)
