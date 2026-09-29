@@ -2,7 +2,7 @@
 
 **Founder & CTO at [Artificialss](https://artificialss.ai/) · Agentic AI Engineer · Mobile-First Fullstack Engineer**
 
-San José, Costa Rica and Sacramento, CA · Dual citizen (Costa Rica and USA) · Bilingual English and Spanish
+**San José, Costa Rica and Sacramento, CA · Dual citizen (Costa Rica and USA) · Bilingual English and Spanish**
 
 I am the founder and CTO of Artificialss, a Costa Rican Software & AI Ethical Labs, and a Senior Mobile Engineer with 8+ years shipping production-grade mobile applications for US and international clients. I design and build multi-agent AI systems, agentic workflows powered by Claude Code and the Anthropic API, and AI-integrated mobile products. My depth is in Android (Kotlin and Jetpack Compose), cross-platform development (Flutter, Dart, KMP and CMP) and clean architecture at scale, and I care about ethical AI, rapid prototyping and building software that solves real problems, from fintech and digital banking to legal tech and Spanish-language AI education.
 
