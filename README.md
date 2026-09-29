@@ -6,10 +6,23 @@
 
 I am the founder and CTO of Artificialss, a Costa Rican Software & AI Ethical Labs, and a Senior Mobile Engineer with 8+ years shipping production-grade mobile applications for US and international clients. I design and build multi-agent AI systems, agentic workflows powered by Claude Code and the Anthropic API, and AI-integrated mobile products. My depth is in Android (Kotlin and Jetpack Compose), cross-platform development (Flutter, Dart, KMP and CMP) and clean architecture at scale, and I care about ethical AI, rapid prototyping and building software that solves real problems, from fintech and digital banking to legal tech and Spanish-language AI education.
 
-## What I do
+## What I do, day to day
+- **Software engineering:** designing, building, reviewing and shipping production code across mobile, backend and web.
+- **AI and context engineering:** designing the specs, context and guardrails that agents like Claude Code work inside, and building multi-agent workflows on the Anthropic API.
+- **Architecture migrations:** taking apps to a professional footing without a rewrite from zero: XML to Compose, MVP (Model-View-Presenter) to MVVM, Observables to StateFlow, Java to Kotlin, monoliths to clean and hexagonal architecture.
+- **MVP (Minimum Viable Product) engineering:** turning an idea into a working, deployed first version quickly, with a foundation that can grow into a production system.
+- **Product end-to-end development:** from idea, design and architecture through implementation, testing, release and iteration.
+- **Full-stack Rust systems:** axum APIs, sqlx and Postgres, Dioxus frontends and shared types, organized as a hexagonal Cargo workspace.
+- **Deployment engineering with Vercel:** preview deployments per pull request, production releases, environment management and serverless Rust and Next.js functions.
+- **SDK and service integrations:**
+  - **Payments and subscriptions:** Stripe, App Store and Google Play subscriptions and in-app purchases.
+  - **Support and analytics:** Kustomer, Segment and Sentry.
+  - **Backend platforms:** Firebase and Supabase, including Stripe with Firebase.
+- **Systems management:** the command line, deployments, database creation and migrations, and AI hosting.
+
+Beyond the day-to-day work:
 - **Artificialss:** agentic AI systems, full-stack web and mobile products, legal technology, cryptography R&D and an AI Academy, from Costa Rica for the world. See the [organization profile](https://github.com/Artificialss).
 - **Hiatus Inc.:** Senior Android Engineer on a US fintech subscription-management platform with 1M+ users. [Details below](#featured-senior-android-engineer-at-hiatus-inc).
-- **Architecture migrations:** taking apps from MVP (Minimum Viable Product) to production-grade codebases: XML to Compose, MVP (Model-View-Presenter) to MVVM, Observables to StateFlow, Java to Kotlin.
 
 ## Core competencies
 | Area | Stack |
